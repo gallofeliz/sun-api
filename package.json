@@ -1,0 +1,23 @@
+{
+  "name": "sun-api",
+  "version": "1.0.0",
+  "description": "Sunrise, sunset, dawn, dusk API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallofeliz/sun-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gallofeliz/sun-api/issues"
+  },
+  "homepage": "https://github.com/gallofeliz/sun-api#readme",
+  "dependencies": {
+    "js-libs": "github:gallofeliz/js-libs",
+    "solar-calc": "^1.1.0"
+  }
+}
